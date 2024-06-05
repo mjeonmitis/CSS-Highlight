@@ -1,0 +1,22 @@
+h1{
+    background-color: navy;
+    color:white;
+}
+
+div ul{
+    background-color: green;
+    color: white;
+}
+
+div blockquote{
+    font-style: italic;
+}
+
+div h2{
+    background-color: maroon;
+    color: white;
+}
+
+div final{
+    font-style: italic;
+}
